@@ -3,11 +3,11 @@
 
 - Redis
   - [Redis分布式锁](Redis分布式锁.md)
-  - 
+
 - 单元测试
   - [JUnit 总结](JUnit单元测试总结.md)
 
--  部署
+- 部署
   - [部署 cheat sheet](CentOS服务器部署.md)
 
 - 结尾 
