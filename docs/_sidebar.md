@@ -1,6 +1,3 @@
-- JavaScript
-  - [闭包](closure.md)
+- IDEA
   - [IDEA debug 小技巧](debugTips.md)
   - [README](README.md)
-- CSS
-  - [布局](layout.md)
