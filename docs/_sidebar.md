@@ -10,6 +10,8 @@
 - 分布式事务
   - [账户系统的TCC模型](账户系统的TCC模型.md)
 
+- 部署
+  - [部署 cheat sheet](CentOS服务器部署.md)
 
 - 结尾 
   - [README](README.md)
