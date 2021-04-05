@@ -47,7 +47,7 @@ public enum GenderEnum implements IEnum {
     @JsonValue
     String desc;
 
-    @JsonCreator
+    @JsonCreator // 仅@RequestBody下(json格式)也可做为接口枚举类参数反解析方法
     public static GenderEnum getEnumByCode(Integer code) {
         return Arrays.stream(GenderEnum.values()).filter(e -> e.code.equals(code)).findFirst().orElse(null);
     }
